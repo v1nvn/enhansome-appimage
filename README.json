@@ -92,7 +92,7 @@
             "last_commit": "2025-12-13T15:11:37Z",
             "owner": "probonopd",
             "repo": "go-appimage",
-            "stars": 1099
+            "stars": 1097
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-12-15T14:08:21Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 7590
+            "stars": 7596
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-02-02T14:17:21Z",
             "owner": "mijorus",
             "repo": "gearlever",
-            "stars": 1520
+            "stars": 1523
           }
         }
       ],
@@ -283,7 +283,7 @@
             "last_commit": "2026-02-07T01:40:09Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7014
+            "stars": 7019
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2024-12-02T23:26:40Z",
             "owner": "mgord9518",
             "repo": "aisap",
-            "stars": 57
+            "stars": 58
           }
         }
       ],
@@ -390,10 +390,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-02-01T03:44:38Z",
+            "last_commit": "2026-02-08T03:49:53Z",
             "owner": "ivan-hc",
             "repo": "AppMan",
-            "stars": 263
+            "stars": 265
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2024-04-05T16:40:10Z",
             "owner": "pegvin",
             "repo": "bread",
-            "stars": 42
+            "stars": 40
           }
         }
       ],
@@ -461,7 +461,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9254
+            "stars": 9255
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2025-12-13T15:11:37Z",
             "owner": "probonopd",
             "repo": "go-appimage",
-            "stars": 1099
+            "stars": 1097
           }
         },
         {
@@ -684,10 +684,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-07T04:38:44Z",
+            "last_commit": "2026-02-08T04:23:03Z",
             "owner": "electron-userland",
             "repo": "electron-builder",
-            "stars": 14440
+            "stars": 14441
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2025-07-21T11:28:59Z",
             "owner": "AppImage",
             "repo": "pkg2appimage",
-            "stars": 761
+            "stars": 760
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2020-05-11T23:53:29Z",
             "owner": "sudo-give-me-coffee",
             "repo": "flatpak2appdir",
-            "stars": 29
+            "stars": 28
           }
         },
         {
@@ -1233,7 +1233,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9254
+            "stars": 9255
           }
         },
         {
@@ -1327,10 +1327,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:26:46.056Z",
+    "last_updated": "2026-02-08T04:33:22.511Z",
     "original_repository": "AppImage/awesome-appimage",
     "source_repository": "v1nvn/enhansome-appimage",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome AppImage with stars"
   }
 }
