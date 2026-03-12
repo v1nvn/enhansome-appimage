@@ -92,7 +92,7 @@
             "last_commit": "2025-12-13T15:11:37Z",
             "owner": "probonopd",
             "repo": "go-appimage",
-            "stars": 1114
+            "stars": 1116
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-03-09T04:21:55Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 7740
+            "stars": 7743
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-03-03T21:09:32Z",
             "owner": "mijorus",
             "repo": "gearlever",
-            "stars": 1635
+            "stars": 1638
           }
         }
       ],
@@ -283,7 +283,7 @@
             "last_commit": "2026-03-09T11:55:29Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7159
+            "stars": 7164
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2024-12-02T23:26:40Z",
             "owner": "mgord9518",
             "repo": "aisap",
-            "stars": 58
+            "stars": 59
           }
         }
       ],
@@ -393,7 +393,7 @@
             "last_commit": "2026-03-09T07:16:32Z",
             "owner": "ivan-hc",
             "repo": "AppMan",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9279
+            "stars": 9280
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2025-09-01T14:14:28Z",
             "owner": "nix-community",
             "repo": "nix-bundle",
-            "stars": 817
+            "stars": 818
           }
         }
       ],
@@ -561,7 +561,7 @@
             "last_commit": "2025-12-13T15:11:37Z",
             "owner": "probonopd",
             "repo": "go-appimage",
-            "stars": 1114
+            "stars": 1116
           }
         },
         {
@@ -684,7 +684,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T17:32:58Z",
+            "last_commit": "2026-03-12T01:20:50Z",
             "owner": "electron-userland",
             "repo": "electron-builder",
             "stars": 14471
@@ -840,7 +840,7 @@
             "last_commit": "2025-07-21T11:28:59Z",
             "owner": "AppImageCommunity",
             "repo": "pkg2appimage",
-            "stars": 765
+            "stars": 766
           }
         },
         {
@@ -1233,7 +1233,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9279
+            "stars": 9280
           }
         },
         {
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:11:03.354Z",
+    "last_updated": "2026-03-12T04:15:02.312Z",
     "original_repository": "AppImage/awesome-appimage",
     "source_repository": "v1nvn/enhansome-appimage",
     "source_repository_description": null,
