@@ -118,7 +118,7 @@
             "last_commit": "2026-03-09T04:21:55Z",
             "owner": "TheAssassin",
             "repo": "AppImageLauncher",
-            "stars": 7817
+            "stars": 7821
           }
         },
         {
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-31T15:33:53Z",
+            "last_commit": "2026-04-01T07:33:35Z",
             "owner": "mijorus",
             "repo": "gearlever",
-            "stars": 1691
+            "stars": 1694
           }
         }
       ],
@@ -233,7 +233,7 @@
             "last_commit": "2025-10-18T19:40:40Z",
             "owner": "AppImageCommunity",
             "repo": "AppImageUpdate",
-            "stars": 704
+            "stars": 705
           }
         },
         {
@@ -280,10 +280,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-26T17:44:57Z",
+            "last_commit": "2026-04-01T15:47:03Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7233
+            "stars": 7238
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2024-10-13T12:58:41Z",
             "owner": "vinifmor",
             "repo": "bauh",
-            "stars": 1347
+            "stars": 1348
           }
         },
         {
@@ -490,7 +490,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-26T20:17:41Z",
+            "last_commit": "2026-04-01T23:15:20Z",
             "owner": "TheAssassin",
             "repo": "appimagecraft",
             "stars": 48
@@ -574,7 +574,7 @@
             "last_commit": "2025-10-21T18:08:31Z",
             "owner": "probonopd",
             "repo": "linuxdeployqt",
-            "stars": 2438
+            "stars": 2439
           }
         },
         {
@@ -684,10 +684,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T01:02:02Z",
+            "last_commit": "2026-04-01T19:42:17Z",
             "owner": "electron-userland",
             "repo": "electron-builder",
-            "stars": 14505
+            "stars": 14506
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2026-01-19T12:21:14Z",
             "owner": "SuperJMN",
             "repo": "DotnetPackaging",
-            "stars": 123
+            "stars": 124
           }
         }
       ],
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:47:56.704Z",
+    "last_updated": "2026-04-02T04:30:49.985Z",
     "original_repository": "AppImage/awesome-appimage",
     "source_repository": "v1nvn/enhansome-appimage",
     "source_repository_description": null,
