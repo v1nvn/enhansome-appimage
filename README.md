@@ -88,8 +88,8 @@
 
 ### Desktop integration
 
-* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 7,836 | 🐛 193 | 🌐 C++ | 📅 2026-03-09 - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
-* [Gear lever](https://github.com/mijorus/gearlever/) ⭐ 1,702 | 🐛 164 | 🌐 Python | 📅 2026-04-02 - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
+* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 7,840 | 🐛 193 | 🌐 C++ | 📅 2026-03-09 - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
+* [Gear lever](https://github.com/mijorus/gearlever/) ⭐ 1,707 | 🐛 164 | 🌐 Python | 📅 2026-04-02 - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
 * [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) ⭐ 1,125 | 🐛 133 | 🌐 Go | 📅 2026-03-30 - Optional daemon that integrates AppImages into the system (experimental).
 * [appimaged](https://github.com/AppImage/appimaged) ⚠️ Archived - Optional daemon that integrates AppImages into the system (deprecated).
 * [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-02-11 - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
@@ -110,7 +110,7 @@
 
 ### Sandboxes
 
-* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,252 | 🐛 525 | 🌐 C | 📅 2026-04-02 - Optional sandbox with support for AppImage built in.
+* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,255 | 🐛 525 | 🌐 C | 📅 2026-04-02 - Optional sandbox with support for AppImage built in.
 * [AppImage Sandboxing Project](https://github.com/mgord9518/aisap) ⭐ 59 | 🐛 2 | 🌐 Zig | 📅 2024-12-02 - Golang library to help sandbox AppImages with bwrap.
 
 ### Package managers
@@ -149,7 +149,7 @@ Although the AppImage format was carefully designed not to need any special supp
 
 * [appimage-builder](https://github.com/AppImageCrafters/appimage-builder) ⭐ 366 | 🐛 97 | 🌐 Python | 📅 2025-07-27 - Recipe based AppImage creation tool working from source.
 * [appimagecraft](https://github.com/TheAssassin/appimagecraft) ⭐ 48 | 🐛 10 | 🌐 Python | 📅 2026-04-01 - Recipe based AppImage creation tool working from source.
-* [rules\_appimage](https://github.com/lalten/rules_appimage) ⭐ 33 | 🐛 8 | 🌐 Starlark | 📅 2026-04-04 - Bazel rules to package any lang\_binary target as AppImage.
+* [rules\_appimage](https://github.com/lalten/rules_appimage) ⭐ 33 | 🐛 10 | 🌐 Starlark | 📅 2026-04-06 - Bazel rules to package any lang\_binary target as AppImage.
 * [AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) ⭐ 26 | 🐛 0 | 🌐 CMake | 📅 2021-07-25 - CMake script which facilitates generating AppImage executables for Linux.
 * [KDE Craft](https://invent.kde.org/packaging/craft) - Build system used by KDE that can produce AppImages and other formats.
 * [appimage-tooling](https://gitlab.com/sgclarkkde/appimage-tooling) - Ruby tooling to generate Appimages.
@@ -172,7 +172,7 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Deployment tools for Electron applications
 
-* [electron-builder](https://github.com/electron-userland/electron-builder) ⭐ 14,508 | 🐛 143 | 🌐 TypeScript | 📅 2026-04-04 - Supports AppImage as an output format.
+* [electron-builder](https://github.com/electron-userland/electron-builder) ⭐ 14,509 | 🐛 143 | 🌐 TypeScript | 📅 2026-04-04 - Supports AppImage as an output format.
 * [Appnativefy](https://github.com/sarweshparajuli/appnativefy) ⭐ 157 | 🐛 18 | 🌐 JavaScript | 📅 2023-02-03 - Create AppImage with embedded Electron browser from any website.
 * [electron-forge-maker-appimage](https://github.com/saleae/electron-forge-maker-appimage) ⭐ 11 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-24 - Electron Forge builder for AppImage.
 
@@ -212,7 +212,7 @@ Although the AppImage format was carefully designed not to need any special supp
 * [appimage-bash](https://github.com/valicm/appimage-bash) ⭐ 14 | 🐛 2 | 🌐 Shell | 📅 2025-01-16 - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
 * [Elements](https://github.com/s-zeid/elements) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2020-06-21 - Tool to generate single-file, runc-based AppImages using a minimal (\~3 MB compressed) Alpine Linux rootfs.
 * [Package-to-appimage](https://github.com/CausaPrincipalis71/package-to-appimage) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2022-11-02 - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
-* [GMAppImager](https://github.com/samuelvenable/GMAppImager) ⭐ 1 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-03-31 - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
+* [GMAppImager](https://github.com/samuelvenable/GMAppImager) ⭐ 1 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-04-05 - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
 * [appimage2pkg](https://gitlab.com/nixtux-packaging/appimage2pkg) - Repack AppImage and make rpm/deb which does not require FUSE.
 * [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
 
