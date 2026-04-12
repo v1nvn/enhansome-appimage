@@ -88,9 +88,9 @@
 
 ### Desktop integration
 
-* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 7,863 | 🐛 194 | 🌐 C++ | 📅 2026-03-09 - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
-* [Gear lever](https://github.com/mijorus/gearlever/) ⭐ 1,735 | 🐛 166 | 🌐 Python | 📅 2026-04-02 - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
-* [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) ⭐ 1,125 | 🐛 133 | 🌐 Go | 📅 2026-03-30 - Optional daemon that integrates AppImages into the system (experimental).
+* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 7,869 | 🐛 193 | 🌐 C++ | 📅 2026-03-09 - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
+* [Gear lever](https://github.com/mijorus/gearlever/) ⭐ 1,741 | 🐛 166 | 🌐 Python | 📅 2026-04-02 - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
+* [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) ⭐ 1,125 | 🐛 134 | 🌐 Go | 📅 2026-03-30 - Optional daemon that integrates AppImages into the system (experimental).
 * [appimaged](https://github.com/AppImage/appimaged) ⚠️ Archived - Optional daemon that integrates AppImages into the system (deprecated).
 * [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-02-11 - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 * [LinuxPA](https://github.com/CalebQ42/LinuxPA) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2025-01-11 - PortableApps.com type launcher for Linux with AppImage support.
@@ -110,16 +110,16 @@
 
 ### Sandboxes
 
-* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,270 | 🐛 531 | 🌐 C | 📅 2026-04-06 - Optional sandbox with support for AppImage built in.
+* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,276 | 🐛 532 | 🌐 C | 📅 2026-04-06 - Optional sandbox with support for AppImage built in.
 * [AppImage Sandboxing Project](https://github.com/mgord9518/aisap) ⭐ 59 | 🐛 2 | 🌐 Zig | 📅 2024-12-02 - Golang library to help sandbox AppImages with bwrap.
 
 ### Package managers
 
 **Note:** The AppImage format is explicitly designed *not to need any package managers* or similar tools. Everything can be done in the file manager (and an optional daemon for system integration).
 
-* [bauh](https://github.com/vinifmor/bauh) ⭐ 1,356 | 🐛 103 | 🌐 Python | 📅 2024-10-13 - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
-* [Zap](https://github.com/srevinsaju/zap) ⭐ 574 | 🐛 51 | 🌐 Go | 📅 2024-06-14 - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
-* [AppMan](https://github.com/ivan-hc/AppMan) ⭐ 302 | 🐛 0 | 🌐 Shell | 📅 2026-04-05 - AppImage Manager that works like APT or Pacman.
+* [bauh](https://github.com/vinifmor/bauh) ⭐ 1,357 | 🐛 103 | 🌐 Python | 📅 2024-10-13 - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
+* [Zap](https://github.com/srevinsaju/zap) ⭐ 575 | 🐛 51 | 🌐 Go | 📅 2024-06-14 - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+* [AppMan](https://github.com/ivan-hc/AppMan) ⭐ 302 | 🐛 0 | 🌐 Shell | 📅 2026-04-12 - AppImage Manager that works like APT or Pacman.
 * [appimage-manager](https://github.com/AppImageCrafters/appimage-manager) ⭐ 117 | 🐛 8 | 🌐 Go | 📅 2023-10-24 - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
 * [Bread](https://github.com/pegvin/bread) ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2024-04-05 - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 * [ayy](https://github.com/lawl/ayy) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2022-05-04 - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
@@ -156,8 +156,8 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Deployment tools for compiled applications
 
-* [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) ⭐ 2,439 | 🐛 213 | 🌐 C++ | 📅 2025-10-21 - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
-* [go-appimagetool](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) ⭐ 1,125 | 🐛 133 | 🌐 Go | 📅 2026-03-30 - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
+* [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) ⭐ 2,440 | 🐛 213 | 🌐 C++ | 📅 2025-10-21 - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
+* [go-appimagetool](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) ⭐ 1,125 | 🐛 134 | 🌐 Go | 📅 2026-03-30 - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
 * [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) ⭐ 757 | 🐛 99 | 🌐 C++ | 📅 2025-11-07 - AppDir creation and maintenance tool using plugins.
 * [XojoToAppImage](https://github.com/AlwaysOfflineSoftware/XojoToAppImage) ⭐ 5 | 🐛 0 | 🌐 Xojo | 📅 2025-03-10 - Graphical tool for packaging compiled Xojo Linux programs into AppImages.
 
@@ -166,13 +166,13 @@ Although the AppImage format was carefully designed not to need any special supp
 * [python-appimage](https://github.com/niess/python-appimage) ⭐ 216 | 🐛 15 | 🌐 Python | 📅 2025-07-06 - Ready to use AppImage distributions of Python (can be modified to include your application).
 * [linuxdeploy-plugin-conda](https://github.com/linuxdeploy/linuxdeploy-plugin-conda) ⭐ 31 | 🐛 20 | 🌐 Shell | 📅 2024-09-07 - Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy.
 * [linuxdeploy-plugin-python](https://github.com/niess/linuxdeploy-plugin-python) ⭐ 27 | 🐛 5 | 🌐 Shell | 📅 2024-05-23 - Bundle Python into an AppDir using a source distribution and linuxdeploy.
-* [PyAppImage](https://github.com/srevinsaju/pyappimage) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2021-10-08 - Ultimately simple python-to-appimage bundler.
+* [PyAppImage](https://github.com/srevinsaju/pyappimage) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2021-10-08 - Ultimately simple python-to-appimage bundler.
 * [Briefcase](https://briefcase.readthedocs.io/) - Convert Python project into a standalone native application, e.g., using AppImage.
 * [pycharm-appimage-support](https://gitlab.com/chezmurray/pycharm-appimage-support) - Deploy Python project as an AppImage directly from the PyCharm IDE.
 
 ### Deployment tools for Electron applications
 
-* [electron-builder](https://github.com/electron-userland/electron-builder) ⭐ 14,517 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-09 - Supports AppImage as an output format.
+* [electron-builder](https://github.com/electron-userland/electron-builder) ⭐ 14,519 | 🐛 105 | 🌐 TypeScript | 📅 2026-04-09 - Supports AppImage as an output format.
 * [Appnativefy](https://github.com/sarweshparajuli/appnativefy) ⭐ 157 | 🐛 18 | 🌐 JavaScript | 📅 2023-02-03 - Create AppImage with embedded Electron browser from any website.
 * [electron-forge-maker-appimage](https://github.com/saleae/electron-forge-maker-appimage) ⭐ 11 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-24 - Electron Forge builder for AppImage.
 
@@ -189,7 +189,7 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Deployment tools for .NET Core (Mono) applications
 
-* [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) ⭐ 248 | 🐛 8 | 🌐 C# | 📅 2025-11-05 - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
+* [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) ⭐ 248 | 🐛 4 | 🌐 C# | 📅 2026-04-11 - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
 * [DotnetPackaging](https://github.com/SuperJMN/DotnetPackaging) ⭐ 123 | 🐛 5 | 🌐 C# | 📅 2026-04-10 - Tool to distribute .NET applications in the AppImage format.
 * [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) ⭐ 56 | 🐛 3 | 🌐 C# | 📅 2026-01-30 - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 * [Publish-AppImage for .NET](https://github.com/kuiperzone/Publish-AppImage) ⭐ 34 | 🐛 1 | 🌐 Shell | 📅 2023-03-24 - Publish AppImages for .NET applications.
@@ -222,12 +222,12 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### QC tools
 
-* [appimagelint](https://github.com/TheAssassin/appimagelint) ⭐ 56 | 🐛 16 | 🌐 Python | 📅 2026-03-07 - Tool to check AppImages for compatibility, best practices etc.
+* [appimagelint](https://github.com/TheAssassin/appimagelint) ⭐ 57 | 🐛 16 | 🌐 Python | 📅 2026-03-07 - Tool to check AppImages for compatibility, best practices etc.
 * [appimage-testsuite](https://github.com/aferrero2707/appimage-testsuite) ⭐ 20 | 🐛 3 | 🌐 Shell | 📅 2020-08-05 - AppImage testing environment based on Docker containers for various Linux distributions.
 
 ### Continuous integration
 
-* [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) ⭐ 682 | 🐛 73 | 🌐 C++ | 📅 2026-04-09 - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
+* [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) ⭐ 683 | 🐛 72 | 🌐 C++ | 📅 2026-04-09 - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 * [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) ⭐ 53 | 🐛 6 | 📅 2025-01-07 - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
 * [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) ⭐ 35 | 🐛 10 | 📅 2023-09-13 - GitHub Action for producing AppImages using appimage-builder.
 * [jniltinho/packages](https://github.com/jniltinho/packages) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2020-05-18 - Drone.io example for producing AppImages using go-appimagetool.
